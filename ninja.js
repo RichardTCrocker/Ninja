@@ -1,3 +1,4 @@
+// Pair programmed with Anthony, Daisy, Eric, Kye, and Viviana
 class Ninja {
     constructor(name, health=90, speed=3, strength=3){
         this.name = name;
